@@ -1,0 +1,13 @@
+# Logs and temp files
+*.log
+*.tmp
+
+# Dependencies
+node_modules/
+__pycache__/
+
+# Environment and secrets
+.env
+
+# OS / editor files
+.vscode/
