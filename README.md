@@ -12,4 +12,4 @@ git-workflow/
 └── screenshots/pr.png
 
 
-![PR merged](screenshot/pr.png)
+![PR merged](screenshot/pr-merge.png)
